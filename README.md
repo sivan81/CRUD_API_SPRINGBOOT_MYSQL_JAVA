@@ -12,7 +12,7 @@
 - Crear Base de datos en MySQL en este caso llamada "crudspringboot".
 - Modificar los datos necesarios en el archivo "application.properties" para poder conectarse a la base de datos.
 - La tabla se creará sola en la ejecución.
-- Utilizar Postman para la ejecución de los GET y POST de la API.
+- Utilizar Postman para la ejecución de los GET y POST de la API. (http://localhost:8080/api/v1/students)
 
 ##### ¿Qué hace este CRUD?
 
